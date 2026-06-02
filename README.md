@@ -83,8 +83,8 @@ python -m http.server 5500
 ##  Estrutura do Projeto
 
 ```
-aurora1_monitor.html   ← arquivo principal (toda a solução em um único arquivo)
 README.md              ← este arquivo
+aurora1_monitor.html   ← arquivo principal (toda a solução em um único arquivo)
 ```
 
 ---
